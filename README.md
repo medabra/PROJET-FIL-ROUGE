@@ -8,8 +8,8 @@ creating a management system for a solar energy company , that handeles  clients
  * #### Admin can see the liste of clients (crud)
  * #### Admin can see the liste of technisiens (crud) 
  * #### Admin can see list of clients and there informations  
- * #### Admin can recive client reservations 
- 
+ * #### Admin can recive client reservations ether packs or technisient service 
+
 ## DASHBOARD CLIENT :
 
  * #### User can see list of technisiense in case a clien whants to reach a one of them for a service 
