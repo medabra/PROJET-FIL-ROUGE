@@ -1,8 +1,8 @@
 # SolarHaven 
 
 * ### ABOUT THE PROJECT:
-creating a management system for a solar energy company , that handeles  clients and there services with technisiens .
 
+  management system for a solar energy company (SolarHaven) , that handeles CLIENT and thiere services with TECHNICIAN .
 
  ## ADMINISTARION : 
 
@@ -25,7 +25,7 @@ creating a management system for a solar energy company , that handeles  clients
 * #### As a client, I want to be able to see a history of the services I have received and the technician who provided them so that I can keep track of maintenance and repairs.
 
 
- ## technisient : 
+ ## TECHNICIAN : 
 * #### As a technician, I want to be able to see a list of my scheduled appointments so that I can plan my day.
 * #### As a technician, I want to be able to update my availability so that the company can schedule me for appointments.
 * #### As a technician, I want to be able to log the details of a service I have completed so that the company has a record of it.
