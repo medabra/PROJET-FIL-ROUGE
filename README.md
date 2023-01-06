@@ -30,7 +30,7 @@ creating a management system for a solar energy company , that handeles  clients
 * #### As a technician, I want to be able to update my availability so that the company can schedule me for appointments.
 * #### As a technician, I want to be able to log the details of a service I have completed so that the company has a record of it.
 * #### As a technician, I want to be able to view a list of my upcoming appointments and their locations so that I can plan my travel.
-* #### As a technician, I want to be notified of any new appointments or changes to my schedule so that I can plan my work accordingly.
+* #### As a technician, I want to be notified of any new appointments or changes to my schedule so that I can plan my work accordingly.  
 
 
 
